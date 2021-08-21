@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
+.about {
+}
+.about-title {
+  display: flex;
+  /* align-items: flex-start; */
+  font-size: 31px;
+  font-weight: 500;
+}
+.title {
+  font-family: "Abril Fatface", cursive;
+  font-size: 50px;
+  font-weight: 500;
+  margin-top: 100px;
+  
+}
+.about-details {
+  font-size: 12px;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+.products {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+.image-gallery {
+  width: 140px;
+  height: 160px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 30px;
+  box-shadow: 4px 15px 28px -6px rgba(0, 0, 0, 0.75);
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 38px;
+}
+.image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.title1 {
+  margin-top: 20px;
+  font-weight: 500;
+}
+.images {
+  display: flex;
+}
